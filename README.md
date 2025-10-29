@@ -2,7 +2,7 @@
 
 This MATLAB project simulates the core components of an **Analog Communication System** including an **AM (Amplitude Modulation) Transmitter** and a **Super-Heterodyne Receiver**.  
 
-![image alt](https://github.com/Ahmed162817/Analog-Communication-/blob/main/AM%20Modulator%20&%20Super-Heterodyne%20Rx.png?raw=true)
+![image alt](https://github.com/Ahmed162817/Analog-Communication/blob/main/Super_Heterodyne_Rx.jpg?raw=true)
 
 ## 🧩 Project Overview
 
@@ -52,3 +52,4 @@ The receiver consists of the following stages:
 - **Audio Inputs:** `.wav` stereo files (provided)
 
 ---
+
