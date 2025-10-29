@@ -4,6 +4,8 @@ This MATLAB project simulates the core components of an **Analog Communication S
 
 ![image alt](https://github.com/Ahmed162817/Analog-Communication/blob/c1180115b4629423cf72e454a2a4134e957622d2/Super_Heterodyne_Rx.jpg)
 
+---
+
 ## 🧩 Project Overview
 
 The objective of this project is to model a complete **AM transceiver** system, where an input audio message is modulated, multiplexed (using Frequency Division Multiplexing - FDM), and then demodulated using a **super-heterodyne receiver** architecture.
@@ -52,5 +54,3 @@ The receiver consists of the following stages:
 - **Audio Inputs:** `.wav` stereo files (provided)
 
 ---
-
-
